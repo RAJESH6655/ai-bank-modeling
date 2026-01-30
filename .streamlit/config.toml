@@ -1,0 +1,13 @@
+[theme]
+# Primary accent (buttons, sliders)
+primaryColor = "#0A2540"   # Navy Blue (Banking color)
+
+# Backgrounds
+backgroundColor = "#F5F7FA"          # Light grey (clean finance UI)
+secondaryBackgroundColor = "#E6ECF2" # Card-like panels
+
+# Text
+textColor = "#0A2540"     # Dark navy text
+
+# Font
+font = "sans serif"

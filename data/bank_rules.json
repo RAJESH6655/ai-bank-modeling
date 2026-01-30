@@ -1,0 +1,53 @@
+{
+  "Excellent": {
+    "score_range": [750, 900],
+    "banks": [
+      "State Bank of India",
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+    ]
+  },
+
+  "Very Good": {
+    "score_range": [700, 749],
+    "banks": [
+      "HDFC Bank",
+      "ICICI Bank",
+      "Axis Bank",
+      "IDFC First Bank",
+      "Federal Bank"
+    ]
+  },
+
+  "Good": {
+    "score_range": [650, 699],
+    "banks": [
+      "Axis Bank",
+      "IDFC First Bank",
+      "IndusInd Bank",
+      "Yes Bank",
+      "Federal Bank"
+    ]
+  },
+
+  "Fair": {
+    "score_range": [600, 649],
+    "banks": [
+      "Bajaj Finserv",
+      "Tata Capital",
+      "L&T Finance",
+      "HDB Financial Services"
+    ]
+  },
+
+  "Poor": {
+    "score_range": [300, 599],
+    "banks": [
+      "Muthoot Finance",
+      "Manappuram Finance",
+      "Shriram Finance"
+    ]
+  }
+}
